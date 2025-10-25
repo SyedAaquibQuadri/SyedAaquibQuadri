@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Syed Aaquib Quadri</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack Web developer(MERN) from India</h3>
 
 - 🔭 I’m currently Revising JavaScript
 
-- 🌱 I’m currently learning **React.js and Vite**
+- 🌱 I’m currently learning **Express.js and Node.js**
 
 - 💬 Ask me about **React, vanilla JS, CSS3**
 
